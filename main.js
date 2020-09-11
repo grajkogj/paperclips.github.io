@@ -20,15 +20,12 @@ function playThrenody(){
 }
 
 function cloneCredits() {
+    displayMessage("Paperclips clone created by Grajkogj!");
     setInterval(
         function() {
             displayMessage("Paperclips clone created by Grajkogj!");
         }, 30000;
     );
-};
-
-function quickAccessDomain() {
-    window.location.href = "index2.html";
 };
 
 // Cache all DOM elements
