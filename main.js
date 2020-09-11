@@ -21,11 +21,6 @@ function playThrenody(){
 
 function cloneCredits() {
     displayMessage("Paperclips clone created by Grajkogj!");
-    setInterval(
-        function() {
-            displayMessage("Paperclips clone created by Grajkogj!");
-        }, 30000;
-    );
 };
 
 // Cache all DOM elements
