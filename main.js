@@ -19,10 +19,6 @@ function playThrenody(){
     }
 }
 
-function cloneCredits() {
-    displayMessage("Paperclips clone created by Grajkogj!");
-};
-
 // Cache all DOM elements
 
 function cacheDOMElements(){
